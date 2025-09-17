@@ -14,3 +14,11 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
   
 gemspec
 
+
+gem "ostruct", "~> 0.6.3"
+gem "csv", "~> 3.3"
+gem "logger", "~> 1.7"
+
+gem "base64", "~> 0.3.0"
+
+gem "bigdecimal", "~> 3.2"

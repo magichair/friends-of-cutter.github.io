@@ -25,6 +25,7 @@ navbar-links:
   Join the Mailing List: "https://groups.google.com/g/friends-of-cutter-reinhart-park"
   Resources:
     - Arlington Park & Rec Commission: "https://www.arlingtonma.gov/town-governance/boards-and-committees/park-recreation-commission"
+    - YourArlington.com Coverage: "https://yourarlington.com/2025/08/cutterplayground-081925/"
 
 ################
 # --- Logo --- #
@@ -32,10 +33,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/reinhart-memorial-cropped.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
