@@ -14,11 +14,11 @@ This page started as a community effort to support the park after the Town of Ar
 
 The group's goal is have a safe, and operational park as soon as possible.
 
-There are two paths forward
-(1) Repair
+##There are two paths forward
+###(1) Repair
 We're looking into getting an estimate for repairs from the original manufacturer to assess replacing all the broken features of the park and connecting them with town representatives. The manufacturer has offered to travel from CT to given an assessment if they think replacing the playstructure pieces would pass a playground safety assessment at no cost if the town is willing to consider repairs.
 
-(2) Reconstruction
+###(2) Reconstruction
 You may have noticed all the new playground across town. These playground were selected in a site survey and the park and recreation commission has been going down the list which is slated to complete by the end of FY2027. Cutter Reinhart Park is not on that list, and does not have any plans for a new playground. The deadline for new capital investments for FY2027 is the beginning of october, and it's unlikely for a plan to be ready in time for submission for 2027, let alone selected as a stand alone project considering the ongoing work to reconstruct parks.
 
 Things we learned at the parks and recreation committee meeting on 9/9
