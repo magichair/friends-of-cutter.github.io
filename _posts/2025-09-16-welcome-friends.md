@@ -14,14 +14,13 @@ This page started as a community effort to support the park after the Town of Ar
 
 The group's goal is have a safe, and operational park as soon as possible.
 
-##There are two paths forward
-###(1) Repair
+## There are two paths forward
+### (1) Repair
 We're looking into getting an estimate for repairs from the original manufacturer to assess replacing all the broken features of the park and connecting them with town representatives. The manufacturer has offered to travel from CT to given an assessment if they think replacing the playstructure pieces would pass a playground safety assessment at no cost if the town is willing to consider repairs.
+### (2) Reconstruction
+You may have noticed all the new playground across town. These playground were selected in a site survey and the park and recreation commission has been going down the list which is slated to complete by the end of FY2026 (Field and Playground Feasibility Study: Capital Projects FY22 - FY26 https://www.arlingtonma.gov/home/showpublisheddocument/54953/637522704282470000). Cutter Reinhart Park is not on that list, and does not have any plans for a new playground. The deadline for new capital investments (not just for playgrounds but town wide spending) for FY2027 is the beginning of october, and it's unlikely for a plan to be ready in time for submission for 2027.
 
-###(2) Reconstruction
-You may have noticed all the new playground across town. These playground were selected in a site survey and the park and recreation commission has been going down the list which is slated to complete by the end of FY2027. Cutter Reinhart Park is not on that list, and does not have any plans for a new playground. The deadline for new capital investments for FY2027 is the beginning of october, and it's unlikely for a plan to be ready in time for submission for 2027, let alone selected as a stand alone project considering the ongoing work to reconstruct parks.
-
-Things we learned at the parks and recreation committee meeting on 9/9
+## Things we learned at the parks and recreation committee meeting on 9/9
 * When the deed for Cutter School was split for sale for the condo development and the public park, there were no stipulations on the park deed for it to maintain a playground. If the community wants a park there, it must be advocated for.
 * Arlington's Park and recreation department is self-funded and does not have budget for any playground maintanence outside of a small budget for "nuts and bolts" it borrows from DPW (department of public works).
 * The Park and Recreation Committee's main access to funds is for capital (net new) construction
