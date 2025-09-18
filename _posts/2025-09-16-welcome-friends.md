@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome Friends!
-subtitle: We've got much to do
+subtitle: Read this for more background
 cover-img: /assets/img/cutter-halloween-party.jpg
 thumbnail-img: /assets/img/cutter-halloween-party-thumb.jpg
 share-img: /assets/img/cutter-halloween-party.jpg
