@@ -8,8 +8,6 @@ share-img: /assets/img/cutter-halloween-party.jpg
 author: John Ibsen
 ---
 
-Welcome!
-
 This page started as a community effort to support the park after the Town of Arlington fenced off the playstructure in August 2025. The town fenced in the play structure after sending photos to the playground safety inspector who previously did a playground inspection. We've since learned so much about the history of this memorial park, how the park and recreation committee supports Arlington playgrounds, and why this park was closed. If you've signed the google form petition letter, thank you! This definitely made a difference and ensured the Parks & Recreation Committee took the time to answer our questions. We also reached out to the selectboard member Diane Mahon who originally helped construct the park, and we appreciate her continued support in helping us continue this conversation.
 
 The group's goal is have a safe, and operational park as soon as possible.
