@@ -13,3 +13,9 @@ The most recent play structure was built in 2000 and dedicated in 2001 to memori
 ### The current closure of the play structure
 
 As of September 2025, the play structure has been deemed unsafe and has been closed off. Due to funding deadlines and fiscal year cycles, replacement is not likely for 3 years. The Friends of Cutter / Reinhart community is strongly encouraging the town to consider a repair option to bridge the gap before replacement can be fully funded.
+
+## Contact Us
+
+John Ibsen - Founder of The Friends of Cutter / Reinhart Park
+
+[hello@cutterreinhartpark.org](mailto:hello@cutterreinhartpark.org)
