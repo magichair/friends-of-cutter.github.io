@@ -2,9 +2,9 @@
 layout: post
 title: October Updates
 subtitle: Parks and Recreation Commission Meeting Notes
-cover-img: /assets/img/cutter-reinhart-poster-up.jpg
-thumbnail-img: /assets/img/cutter-reinhart-poster.jpg
-share-img: /assets/img/cutter-reinhart-poster.jpg
+cover-img: /assets/img/cutter-reinhart-poster-up.png
+thumbnail-img: /assets/img/cutter-reinhart-poster.png
+share-img: /assets/img/cutter-reinhart-poster.png
 author: John Ibsen
 ---
 
