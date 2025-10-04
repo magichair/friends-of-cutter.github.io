@@ -26,7 +26,7 @@ There is an ["Arlington Park and Recreation Commission Multi-Year Capital Plan F
 
 ## What can I do to help?
 
-We're going to keep attending Parks and Recreation Commission meetings and encouraging the Commission to take action. You can find all upcoming commission meetings and past agendas and meetings [here](https://www.arlingtonma.gov/town-governance/boards-and-committees/park-recreation-commission/agendas-minutes).
+We're going to keep attending Parks and Recreation Commission meetings and encouraging the Commission to take action. You can find all upcoming commission [meetings and past agendas here](https://www.arlingtonma.gov/town-governance/boards-and-committees/park-recreation-commission/agendas-minutes).
 
 You can help by visiting the park and helping keep it clean! Let's do what we can as a community to continue to make the space as welcoming as we can despite the fencing.
 
