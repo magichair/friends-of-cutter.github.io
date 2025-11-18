@@ -1,0 +1,23 @@
+{
+  "name": "Beautiful Jekyll Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [4000],
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll Site",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "bundle exec jekyll serve --watch --force_polling -H 0.0.0.0 -P 4000 &",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "davidanson.vscode-markdownlint",
+        "esbenp.prettier-vscode",
+        "ms-vscode.live-server"
+      ]
+    }
+  }
+}
