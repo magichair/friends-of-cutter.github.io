@@ -2,16 +2,31 @@
 layout: post
 title: November Updates
 subtitle: Forward Progress
-cover-img: /assets/img/cutter-bearcub-costumes.png
-thumbnail-img: /assets/img/cutter-bearcub-costumes.png
-share-img: /assets/img/cutter-bearcub-costumes.png
+cover-img: /assets/img/cutter-bearcub-costumes.jpg
+share-img: /assets/img/cutter-bearcub-costumes.jpg
 author: John Ibsen
 ---
 
-Thanks to everyone signing our petition, sending in letters (even hand written ones from neighborhood kids), and showing up to the Park and Recreation committee meetings, we have made headway into ensuring the safety and eventual return of the Cutter Reinhart Playground. Thank you also to everyone who showed up to the October 28th Park and Recreation Meeting (Meeting: https://www.arlingtonma.gov/Home/Components/Calendar/Event/35605/370 Minutes: https://www.arlingtonma.gov/home/showpublisheddocument/76035/638979557311670000) where many people in the community had expressed their concerns.
+Thanks to everyone signing our petition, sending in letters (even hand written ones from kids), and showing up to the Park and Recreation committee meetings, we have made headway into ensuring the safety and eventual return of the Cutter Reinhart Playground. Thank you also to everyone who showed up to the October 28th Park and Recreation Commission Meeting ([Agenda and Correspondences](https://www.arlingtonma.gov/home/showpublisheddocument/75875/638968916038230000) and [Minutes](https://www.arlingtonma.gov/home/showpublisheddocument/76035/638979557311670000)) where many people in the community had expressed their concerns.
 
-On Friday November 14th, Natasha Waden the Park and Recreation Director reached out with updates largely made possible because of the advocacy of this group. Despite the Park & Recreation Committee being firm that they do not believe safety can be maintained through repair based on loose photographs and emails exchanged between the town’s playground inspector, we have advocated hard enough that they did go forward with a formal safety inspection and are planning to reach out to the original manufacturer regarding the original equipment. You may have noticed the see-saw is now included in closed off equipment. This happened during the formal safety inspection where the inspector found the tire collapses when stepped on and exposes a bolt. We hope to see the results of the safety inspection soon. We also met with the Town Manager regarding the Town’s overall budgeting for playground maintenance and repair across Arlington that is the root cause of Cutter Reinhart’s current state of disrepair to understand what are our feasible next steps.
+![Letter from 9 year old neighbor]({{ '/assets/img/oct28-kids-letter.png' | relative_url }}){: .mx-auto.d-block :}
 
-As for next steps specifically for Cutter Reinhart playground, the Commission will vote on the direction of Cutter Reinhart playground at the Dec 9th meeting pending agenda approval. We plan to advocate for fencing if any is removed during play structure removal so that the open field will not be exposed to the street. The Park & Recreation Director has also expressed interest in creating a working group composed of members of the Park & Recreation Department, the Park & Recreation Committee, and advocates of the park from the Friend of Cutter Reinhart park to discuss the immediate and long term improvements to the park.
+# Set backs
 
-Overall, this is great progress from where we started when there was no transparency around the safety of this playground, and the uncertainty around whether or not this playground would even be considered for replacement. Thank you for showing up and signing, we’re making progress on ensuring this space continues to support a playground.
+At the October 28th meeting, the sentiment was generally that Town Counsel and the Town's contracted CPSI (Certified Playground Safety Inspector) believed there was too much risk and liability in repairing the structure. The main concern cited was the state of the main support posts. However, there was not any formal inspection report of the structure and these sentiments were communicated over email with photos taken by the Town.
+
+# Renewed Hope
+
+On November 14th, Natasha Waden, Director of Recreation, provided an update to the Friends of Cutter Reinhart. Through the continued efforts of community members to challenge the issue and the overwhelming list of signatures on the petition (267 strong as of this writing!), the Recreation department has commissioned the playground inspector to perform a formal inspection. Additionally, the Town will coordinate an inspection from the original manufacturer for their professional opinion and to verify the initial repair quote they provided us. The initial quote and no-cost offer to visit was communicated back in September. We're greatly appreciative the Recreation Department and the Commission will follow through with full due diligence on this option to repair.
+
+# Continued Advocacy and Next Steps
+
+As for next step, the Commission will discuss the results of the inspections of Cutter Reinhart playground at the Dec 9th meeting pending agenda approval. We plan to advocate for replacement fencing on the School St. side. The Park & Recreation Director has also expressed interest in creating a working group composed of members of the Park & Recreation Department, the Park & Recreation Committee, and advocates of the park from the Friend of Cutter Reinhart park to discuss the immediate and long term improvements to the park.
+
+# You did this!
+
+Overall, this is great progress from where we started when there was no transparency around the safety of this playground, and the uncertainty around whether or not this playground would even be considered for replacement. Thank you for showing up and signing, we’re making progress on ensuring this space continues to be a open and welcoming space for all the neighbors and users.
+
+# Some Footnotes
+
+Through a meeting with Town Manager, Jim Feeney, and Deputy Town Manager for Finances, Julie Wayman, we talked through the ongoing maintenance of not just Cutter but other Town investments. There was a lot of helpful insights about the Capital Plan for the Capital Planning Committee. They shared the [2024 Report to Town Meeting](https://www.arlingtonma.gov/home/showpublisheddocument/69556/638483561897670000) (aka. the Capital Plan). I encourage you to search for "Playground audit and safety improvements" and note the $75,000 set aside annually for safety improvements. It was indicated to me that this was a relatively newly allocated fund for the Recreation Department to use at their discretion.
