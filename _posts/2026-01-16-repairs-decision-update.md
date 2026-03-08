@@ -1,0 +1,33 @@
+---
+layout: post
+title: Winter Updates
+subtitle: Park & Recreation Decisions & Updates
+author: Elaine Uy
+---
+
+Thanks to everyone who has been showing up to the Park & Rec Commission Meetings.
+If you don't have time to read through all the details, the high level take away is that the commission decided not to pursue a repair option for the playground and it will be removed as soon as the ground thaws.
+
+# Repair Costs & Inspection Review
+The Park & Recreation Commission informed us the updated estimated cost of repair with the most recent formal inspection is $36,380.78. They decided to move forward with the removal of the playground which they hope to schedule with DPW as soon as possible so they no longer have to pay for the temporary fencing.
+
+# Rebuilding
+We hope to continue to advocate for the space at Cutter Reinhart Park to be used as a playground. Here are some items we're hoping to advocate for and ways you can help.
+
+## Advocating for replacement fencing at the Commission Meetings
+Once the demolition of the playground is underway, the fencing to the street will need to be removed. There are currently no plans to replace the fencing, which is a safety hazard for any children who might use the open space.
+
+## Funding for Playground & Maintenance in Arlington
+If you are a town resident, there is a property tax override to help fund the town budget in the next election. Funds here go not only to the playgrounds, but also to the schools, libraries, and other services throughout the town. There is a local group organizing volunteers for this override and if you are interested in volunteering, more information can be found at [yesforarlington.com](https://yesforarlington.org/). Having funding is critical for replacing the playground as the last budget meeting flagged reducing the scope and footprint of Arlington's playgrounds as a cost saving measure.
+
+## CPAC investment proposal for FY2027
+We missed the [CPAC proposals](https://www.arlingtonma.gov/town-governance/boards-and-committees/community-preservation-act-committee-cpac) for FY2026 (since proposals were due only 3 weeks after the fence around the playground went up), but we're hoping if we advocate now, we can get the commission to put a proposal in to fund a new playground for FY2027.
+
+## Working with the Commission to rebuild the playground
+We are hoping to advocate to the commission that a rebuild of this playground is a worthwhile investment for the community. Assuming the commission agrees to spend their budget on a rebuild, we're hoping to start a working group to help plan and design a replacement playground.
+
+
+We are going to miss this playground and all the memories we've made there. And, although we would've preferred a repair for several reasons (lower cost and faster turn around time), this also presents an opportunity to advocate for and build a playground and park that suits the current and future needs of the community the playground would serve.
+
+The notes to the Dec 9th meeting [here](https://www.arlingtonma.gov/home/showpublisheddocument/76746/639040966427600000) if you'd like to review in closer detail.
+
