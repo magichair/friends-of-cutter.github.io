@@ -12,7 +12,7 @@ Two months after the playground was removed, we have some genuinely exciting new
 On May 26th, I met with Natasha Waden, Director of Recreation, and Jen Rothenberg, Chair of the Park and Recreation Commission, to discuss the path forward for the park. We talked through the full process for getting a project like ours from concept to construction:
 
 1. **Feasibility Study** -- A consultant evaluates the site covering accessibility, soil, drainage, environmental factors, and community input. Estimated cost of $10-25k and could take 3-6 months.
-2. **Full Design** -- Public meetings to determine the type of space and layout. For a project in the $250-300k range, the design phase alone could run around $30k.
+2. **Full Design** -- Public meetings to determine the type of space and layout.
 3. **Bid and Procurement** -- Formal process with landscape and playground architects, equipment selection, and contractor bidding.
 4. **Construction** -- Build out.
 
@@ -40,6 +40,6 @@ We've also been fortunate to connect with members of the cycling community who k
 
 # What's Next
 
-Once the feasibility study kicks off, we'll have a much clearer picture of what a reimagined Cutter / Reinhart Park could look like and what it will cost. That's when the real fundraising begins. The overall project is estimated in the $250-300k range, and having a professional feasibility study in hand will be critical for us to pursue grants, CPA funding, and community fundraising.
+Once the feasibility study kicks off, we'll have a much clearer picture of what a reimagined Cutter / Reinhart Park could look like and what it will cost. That's when the real fundraising begins, and having a professional study in hand will be critical for us to pursue grants, CPA funding, and community fundraising.
 
 In the meantime, continue to show up to [Park and Recreation Commission meetings](https://www.arlingtonma.gov/town-governance/boards-and-committees/park-recreation-commission/commission-calendar/) -- your presence matters and has been a driving force behind every bit of progress we've made.
